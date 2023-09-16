@@ -22,7 +22,7 @@ The implementation of a new online learning platform in the school.
 - **Counselor 2**: "How will this impact student mental health given the existing pandemic stress?"
 
 ## Initial Visualization
-![Stakeholders Graph]
+![Stakeholders Graph](./stakeholders.png)
 
 **In this graph:**
 - Parents agree with Kids (high weight of 8)
