@@ -22,7 +22,7 @@ De implementatie van een nieuw online leerplatform op de school.
 - **Counselor 2**: "Wat is de impact op de mentale gezondheid van de leerlingen gezien de bestaande pandemische stress?"
 
 ## Initiële Visualisatie
-![Stakeholders Grafiek](./stakeholdersNL.png)
+![Stakeholders Grafiek](./Simulatie.png)
 
 **In deze grafiek:**
 - Ouders zijn het eens met Kinderen (hoog gewicht van 8)
