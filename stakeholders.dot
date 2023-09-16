@@ -1,0 +1,7 @@
+digraph G {
+  Parents -> Kids [label="agree", weight=8];
+  Parents -> Teachers [label="disagree", weight=2];
+  Teachers -> Counselors [label="agree", weight=7];
+  Counselors -> Parents [label="neutral", weight=5];
+  Kids -> Teachers [label="agree", weight=6];
+}

@@ -1,0 +1,8 @@
+digraph G {
+  Ouders -> Kinderen [label="eens", weight=8];
+  Ouders -> Leraren [label="oneens", weight=2];
+  Leraren -> Counselors [label="eens", weight=7];
+  Counselors -> Ouders [label="neutraal", weight=5];
+  Kinderen -> Leraren [label="eens", weight=6];
+}
+
